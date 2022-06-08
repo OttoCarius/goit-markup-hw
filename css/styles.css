@@ -50,7 +50,7 @@ body {
             color: var(--colorSecondary);
         }
     
-         .list  .current{
+        .list .current{
             color: var(--colorSecondary);
         }
 /* Контактные адреса */
