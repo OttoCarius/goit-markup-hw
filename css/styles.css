@@ -49,7 +49,8 @@ body {
         .list a:focus {
             color: var(--colorSecondary);
         }
-        .current{
+    
+         .list  .current{
             color: var(--colorSecondary);
         }
 /* Контактные адреса */
