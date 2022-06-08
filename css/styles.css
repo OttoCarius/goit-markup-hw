@@ -189,7 +189,8 @@ body {
     }
 
     /* < !-- Портфолио Проэктов --> */
-
+    .button-categories{font-family: inherit;}
+    
     .projects-title{color: var(--colorPrimary);
         font-weight: 700;
         font-size: 18px;
