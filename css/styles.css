@@ -203,4 +203,8 @@ body {
         line-height: 30px;
         letter-spacing: 0.03em;
     }
+
+        .list-projects a {
+            text-decoration: none;
+        }
                 
